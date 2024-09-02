@@ -1,1 +1,1 @@
-
+un bucle while puede servir para realizar un contador del 1 al 100
